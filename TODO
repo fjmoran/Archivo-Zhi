@@ -4,6 +4,7 @@ TODO
 	1.1.- se le pasaran las acciones como parametros
 	1.2.- los checkbox van dentro de un label 
 	1.3.- Grenerar paginador (de 10 en 10 registros por defecto) parametro del usuario y defecto del sistema.
-2.- insert_table_generic debe poner la info en 2 columnas de izq a der de arriba a abajo.
+2.- insert_table_generic debe poner la info en 2 columnas de izq a der de arriba a abajo. (hecho)
 3.- Informes, forma de presentarlos
+(hecho)
 4.- Mobile, ver como hacerlo
